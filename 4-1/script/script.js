@@ -3,7 +3,7 @@ new Vue({
     el: '#app',
     data() {
         return {
-            count: 1
+            count: 59
         };
     },
     methods: {
